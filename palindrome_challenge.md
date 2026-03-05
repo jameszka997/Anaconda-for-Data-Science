@@ -130,4 +130,4 @@ Result:     True ✅
 
 ---
 
-*Part of my data portfolio — solving coding challenges in Python.*
+*Solution to Coding Challenge for Chapter 2 of the 'Learning Python (2021)' module of Anaconda for Data Science.*
